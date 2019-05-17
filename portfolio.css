@@ -1,0 +1,115 @@
+.nav-pills {
+    font-family: Oswald, sans serif;
+    font-size: 30px;
+    background-color: black;
+    margin-bottom: 10%;
+}
+
+body {
+    background-color: black;
+    padding-top: 75px;
+    font-family: Oswald;
+}
+
+.pageOne {
+    background-image: url("https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-487384.jpg");
+    background-size: cover;
+    height: 500px;
+    padding-top: 75px;
+}
+
+.pageTwo {
+    background-image: url("https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-154815.jpg");
+    background-size: cover;
+    height: 700px;
+    width: auto;
+    margin-top: 60px;
+    padding-top: 75px;
+}
+
+.pageThree {
+    background-image: url("https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-314534.jpg");
+    background-size: cover;
+    height: 750px;
+    width: auto;
+    margin-top: 60px;
+    padding-top: 75px;
+}
+
+.title {
+    font-family: Lobster;
+    color: #e23636;
+    text-shadow: /* Outline */
+    -1px -1px 0 #000000, 1px -1px 0 #000000, -1px 1px 0 #000000, 1px 1px 0 #000000, -2px 0 0 #000000, 2px 0 0 #000000, 0 2px 0 #000000, 0 -2px 0 #000000;
+    font-size: 5em;
+}
+
+h1 {
+    font-family: Lobster;
+    color: #e23636;
+    text-shadow: /* Outline */
+    -1px -1px 0 #000000, 1px -1px 0 #000000, -1px 1px 0 #000000, 1px 1px 0 #000000, -2px 0 0 #000000, 2px 0 0 #000000, 0 2px 0 #000000, 0 -2px 0 #000000;
+    font-size: 3em;
+}
+
+h2 {
+    font-family: Lobster;
+    color: #e23636;
+    text-shadow: /* Outline */
+    -1px -1px 0 #000000, 1px -1px 0 #000000, -1px 1px 0 #000000, 1px 1px 0 #000000, -2px 0 0 #000000, 2px 0 0 #000000, 0 2px 0 #000000, 0 -2px 0 #000000;
+    font-size: 2em;
+}
+
+p {
+    font-family: Open Sans;
+    color: #e23636;
+    font-size: 1.5em;
+    text-shadow: /* Outline */
+    -1px -1px 0 #000000, 1px -1px 0 #000000, -1px 1px 0 #000000, 1px 1px 0 #000000, -2px 0 0 #000000, 2px 0 0 #000000, 0 2px 0 #000000, 0 -2px 0 #000000;
+}
+
+.list {
+    font-family: Open Sans;
+    color: #e23636;
+    font-size: 1.5em;
+    text-shadow: /* Outline */
+    -1px -1px 0 #000000, 1px -1px 0 #000000, -1px 1px 0 #000000, 1px 1px 0 #000000, -2px 0 0 #000000, 2px 0 0 #000000, 0 2px 0 #000000, 0 -2px 0 #000000;
+}
+
+.jumbotron {
+    background-color: black;
+    opacity: .9;
+    width: 70%;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 15px;
+}
+
+.btn-default {
+    background-color: black;
+    color: #337ab7;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+.me {
+    margin-top: 10%;
+    height: 75%;
+    border-radius: 20%;
+}
+
+.menu li {
+    display: inline;
+}
+
+.background {
+    background-color: black;
+    opacity: .9;
+    margin-right: auto;
+    border-radius: 25px;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-top: auto;
+}
